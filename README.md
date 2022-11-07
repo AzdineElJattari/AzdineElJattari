@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Azdine <a href="https://www.linkedin.com/in/azdineeljattari/" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="AzdineElJattari" height="30" width="40" /></a>
 </h1>
-<h3 align="center">A Belgian with a huge passion for software development!</h3>
+<h3 align="center">A Belgian dude with a huge passion for software development!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AzdineElJattari&label=Profile%20views&color=129e00&style=plastic" alt="AzdineElJattari" /> </p>
 
