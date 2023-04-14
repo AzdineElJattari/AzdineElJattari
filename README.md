@@ -13,7 +13,8 @@
 - C# (.NET)
 - ASP.NET MVC
 - Xamarin
-- Javascript (Vanilla)
+- Javascript
+- Typescript
 - Angular
 - SQL
 
