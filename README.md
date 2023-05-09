@@ -14,7 +14,8 @@
 - ASP.NET MVC
 - Xamarin
 - Javascript
-- Typescript
 - Angular
 - SQL
-
+- Microsoft Excel
+- Microsoft Power Automate
+- Microsoft SharePoint
