@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Azdine <a href="https://www.linkedin.com/in/azdineeljattari/" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="AzdineElJattari" height="30" width="40" /></a>
+<h1 align="center">Hi 👋, I'm Azdine
 </h1>
 <h3 align="center">A Belgian guy with a huge passion for software development and working on large scale of data!</h3>
 
