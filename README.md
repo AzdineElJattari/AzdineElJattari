@@ -13,7 +13,7 @@
 - C# (.NET)
 - Javascript (Angular)
 - SQL
-- Xamarin
+- Xamarin (Mobile)
 - Microsoft Visual Basic for Applications (VBA)
 - Microsoft Excel
 - Microsoft Access
