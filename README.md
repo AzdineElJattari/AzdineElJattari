@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AzdineElJattari&label=Profile%20views&color=129e00&style=plastic" alt="AzdineElJattari" /> </p>
 
-- 👨‍💻 You can also check out my **[Portfolio](https://azdineeljattari.netlify.app/)**
+- 👨‍💻 You can also check out my personal **[portfolio](https://azdineeljattari.netlify.app/)**
 
 - 📫 How to reach me **Azdine.eljattari@hotmail.com**
 
