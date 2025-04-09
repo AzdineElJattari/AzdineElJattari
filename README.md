@@ -8,9 +8,9 @@
 
 - C# (.NET)
 - SQL
+- Blazor Server
 - ASP.NET Core Web API
 - ASP.NET Core
 - WPF
-- Xamarin
-- Git
-- Docker
+- MAUI
+- Azure
