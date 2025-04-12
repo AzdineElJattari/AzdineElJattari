@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### Hello 🌎, I'm Azdine El Jattari
+### Hello 🌎, I'm Azdine
   
 Based in Belgium, I have over 4 years of experience as a Software Engineer, dedicated to creating technology solutions that bridge the digital world with real life! I specialize in both backend and frontend development, enabling me to contribute to innovative startups and large enterprise projects alike. I am passionate about writing clean, maintainable code and designing with users in mind, thriving in environments that embrace innovation and continuous professional growth. Let's make technology shine! 🚀
 
