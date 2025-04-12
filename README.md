@@ -19,7 +19,7 @@ Based in Belgium, I have over 4 years of experience as a Software Engineer, dedi
 
 <div align="center">
   <a href="https://github.com/AzdineElJattari">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Revazashvili&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AzdineElJattari"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AzdineElJattari&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AzdineElJattari"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AzdineElJattari&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AzdineElJattari"/>
   </a>
 </div>
