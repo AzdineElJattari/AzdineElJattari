@@ -2,7 +2,9 @@
 
 ### Hello 🌎, I'm Azdine
   
-Based in Belgium, I have over 4 years of experience as a Software Engineer, dedicated to creating technology solutions that bridge the digital world with real life! I specialize in both backend and frontend development, enabling me to contribute to innovative startups and large enterprise projects alike. I am passionate about writing clean, maintainable code and designing with users in mind, thriving in environments that embrace innovation and continuous professional growth. Let's make technology shine! 🚀
+Based in Belgium, I have over 4 years of experience as a Software Developer, dedicated to creating technology solutions that bridge the digital world with real life! I specialize in both backend and frontend development, enabling me to contribute to innovative startups and large enterprise projects alike. I am passionate about writing clean, maintainable code and designing with users in mind, thriving in environments that embrace innovation and continuous professional growth. 
+
+Let's make technology really work! 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,15 +18,10 @@ Based in Belgium, I have over 4 years of experience as a Software Engineer, dedi
 
 <div align="center">
   <a href="https://github.com/AzdineElJattari">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AzdineElJattari&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AzdineElJattari"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AzdineElJattari&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AzdineElJattari"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=richlander&show_icons=true&locale=en&layout=compact&theme=dark" alt="AzdineElJattari"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AzdineElJattari&show_icons=true&locale=en&layout=compact&theme=dark" alt="AzdineElJattari"/>
   </a>
 </div>
-<p align="center">
-  <a href="https://github.com/AzdineElJattari">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzdineElJattari&&theme=tokyonight" alt="AzdineElJattari" />
-  </a>
-</p>
 
 ------
 <h3 align="left">Languages & Tools:</h3>
