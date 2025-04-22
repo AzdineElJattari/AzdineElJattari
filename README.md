@@ -4,9 +4,6 @@
   
 Based in Belgium, I have over 4 years of experience as a Software Engineer, dedicated to creating technology solutions that bridge the digital world with real life! I specialize in both backend and frontend development, enabling me to contribute to innovative startups and large enterprise projects alike. I am passionate about writing clean, maintainable code and designing with users in mind, thriving in environments that embrace innovation and continuous professional growth. Let's make technology shine! 🚀
 
-- 🔭 I’m currently architecting a complex enterprise solution for my company
-- 🌱 I’m currently learning; .NET Blazor Server.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/azdine-el-jattari/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Azdine_El_Jattari" height="40" width="60" ></i>
