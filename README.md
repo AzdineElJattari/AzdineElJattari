@@ -20,7 +20,6 @@ Let's make technology really work! 🚀
 <div align="center">
   <a href="https://github.com/AzdineElJattari">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=richlander&show_icons=true&locale=en&layout=compact&theme=dark" alt="AzdineElJattari"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AzdineElJattari&show_icons=true&locale=en&layout=compact&theme=dark" alt="AzdineElJattari"/>
   </a>
 </div>
 
