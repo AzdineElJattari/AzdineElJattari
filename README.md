@@ -56,6 +56,3 @@ Let's make technology really work! 🚀
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
     </tr>
 </table>
-
-------
-🔳 [AzdineElJattari](https://github.com/AzdineElJattari)
