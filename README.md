@@ -2,7 +2,7 @@
 
 ### Hello 🌎, I'm Azdine
   
-Based in Belgium, I have over 4 years of experience as a Software Developer, dedicated to creating technology solutions that bridge the digital world with real life! I specialize in both backend and frontend development, enabling me to contribute to innovative startups and large enterprise projects alike. I am passionate about writing clean, maintainable code and designing with users in mind, thriving in environments that embrace innovation and continuous professional growth. 
+Based in Belgium, I'm currently sitting on 4 years of experience as a Software Developer, dedicated to creating technology solutions that bridge the digital world with real life! I specialize in both backend and frontend development, enabling me to contribute to innovative startups and large enterprise projects alike. I am passionate about writing clean, maintainable code and designing with users in mind, thriving in environments that embrace innovation and continuous professional growth. 
 <br />
 <br />
 Let's make technology really work! 🚀
